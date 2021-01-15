@@ -1,5 +1,7 @@
 MIN HEAP
 ====================
+Building with AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/fc6j8qwugmrhgyf0?svg=true)](https://ci.appveyor.com/project/DanielSLima/minheap)
+
 Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/MinHeap.svg?branch=master)](https://www.travis-ci.com/danielScLima/MinHeap)
 
 This repository has a project with the implementation of a MIN HEAP.
