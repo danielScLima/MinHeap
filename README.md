@@ -1,5 +1,6 @@
 MIN HEAP
 ====================
+Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/MinHeap.svg?branch=master)](https://www.travis-ci.com/danielScLima/MinHeap)
 
 This repository has a project with the implementation of a MIN HEAP.
 
